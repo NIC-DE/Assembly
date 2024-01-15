@@ -1,3 +1,3 @@
 # Assembly
-Assembly projects
+Assembly projects/
 University of Patras
